@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'New: AI-Powered Form Builder',
-  title: 'Build beautiful forms that',
+  title: 'Create beautiful forms that',
   titleHighlight: 'convert like crazy',
   description:
     "Create engaging, conversational forms that feel like natural interactions. Boost completion rates by up to 3x with FormFlow's intuitive drag-and-drop builder.",
